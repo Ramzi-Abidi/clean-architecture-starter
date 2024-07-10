@@ -3,6 +3,7 @@ Clean Architecture is a software design philosophy that emphasizes separation of
 ## Diagram Representation
 
 Clean Architecture is often represented with concentric circles:
+
 ![image](https://github.com/Ramzi-Abidi/clean-architecture-starter/assets/69228547/f542f78b-513a-46c1-95d7-0ffeacb0e787)
 
 ## Key Principles
