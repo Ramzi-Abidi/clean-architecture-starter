@@ -8,9 +8,6 @@ const app = express();
 
 app.use(express.json());
 
-// // to prevent blocking the http requests
-// app.use(cors());
-
 app.use("/api/v1/auth", authRoutes);
 
 app.listen(PORT, () => {
